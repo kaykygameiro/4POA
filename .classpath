@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="AP5_corrida/Threads/pjrThreads/src/|AP5_corrida/Corrida/pjrCorrida/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="AP5_corrida/Corrida/pjrCorrida/src"/>
+	<classpathentry kind="src" path="AP5_corrida/Threads/pjrThreads/src"/>
+	<classpathentry kind="output" path="AP5_corrida/Corrida/pjrCorrida/bin"/>
+</classpath>
